@@ -1,0 +1,31 @@
+Replace: http://192.168.0.106/Assets/Gallery/thumbnails/colorpalette.png.2022062113231862b178ee791c4107515414-thumbnail.jpg
+C:/xampp/htdocs/Project/Assets/Gallery/http://192.168.0.106/Assets/Gallery/thumbnails/colorpalette.png.2022062113231862b178ee791c4107515414.jpg
+C:/xampp/htdocs/Project/Assets/Gallery/thumbnails/http://192.168.0.106/Assets/Gallery/thumbnails/colorpalette.png.2022062113231862b178ee791c4107515414-thumbnail.jpg
+
+\Needle: colorpalette.png.2022062113231862b178ee791c4107515414-thumbnail.jpg
+
+
+Replace: http://192.168.0.106/Assets/Gallery/thumbnails/colorpalette.png.2022062113231862b178ee791c4107515414-thumbnail.jpg
+C:/xampp/htdocs/Project/Assets/Gallery/http://192.168.0.106/Assets/Gallery/thumbnails/colorpalette.png.2022062113231862b178ee791c4107515414.jpg
+C:/xampp/htdocs/Project/Assets/Gallery/thumbnails/http://192.168.0.106/Assets/Gallery/thumbnails/colorpalette.png.2022062113231862b178ee791c4107515414-thumbnail.jpg
+\Trim: 
+C:/xampp/htdocs/Project/Assets/Gallery/colorpalette.png.2022062113231862b178ee791c4107515414.jpg
+C:/xampp/htdocs/Project/Assets/Gallery/thumbnails/colorpalette.png.2022062113231862b178ee791c4107515414-thumbnail.jpg
+\Trim: 
+C:/xampp/htdocs/Project/Assets/Gallery/1505202218.2022062113374362b17c4f3ea31178308725.jpg
+C:/xampp/htdocs/Project/Assets/Gallery/thumbnails/1505202218.2022062113374362b17c4f3ea31178308725-thumbnail.jpg
+\Trim: 
+C:/xampp/htdocs/Project/Assets/Gallery/132021.png.2022062113415062b17d469462b646600867.jpg
+C:/xampp/htdocs/Project/Assets/Gallery/thumbnails/132021.png.2022062113415062b17d469462b646600867-thumbnail.jpg
+\Trim: 
+C:/xampp/htdocs/Project/Assets/Gallery/encrusted_ii.2022062113531362b17ff1118f5539826070.jpg
+C:/xampp/htdocs/Project/Assets/Gallery/thumbnails/encrusted_ii.2022062113531362b17ff1118f5539826070-thumbnail.jpg
+\Trim: 
+C:/xampp/htdocs/Project/Assets/Gallery/encrusted_i.2022062113553362b1807deff13835292831.jpg
+C:/xampp/htdocs/Project/Assets/Gallery/thumbnails/encrusted_i.2022062113553362b1807deff13835292831-thumbnail.jpg
+\Trim: 
+C:/xampp/htdocs/Project/Assets/Gallery/starsfallingatnight1.2022062113582562b181291e2a7241709605.jpg
+C:/xampp/htdocs/Project/Assets/Gallery/thumbnails/starsfallingatnight1.2022062113582562b181291e2a7241709605-thumbnail.jpg
+\Trim: 
+C:/xampp/htdocs/Project/Assets/Gallery/empyrean.2022062113592962b18169f18e2198121314.jpg
+C:/xampp/htdocs/Project/Assets/Gallery/thumbnails/empyrean.2022062113592962b18169f18e2198121314-thumbnail.jpg
